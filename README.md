@@ -1,7 +1,7 @@
 # test-preferensi-app
 Ini adalah sebuah web yang di mana untuk test preferensi kepribadian, sudah lengkap dengan soal
 
-#CARA MENGGUNAKAN
+# CARA MENGGUNAKAN
 
 1. Download file test.zip
 2. Ekstrak file nya
