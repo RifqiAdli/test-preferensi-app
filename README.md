@@ -1,11 +1,14 @@
-# test-preferensi-app
-Ini adalah sebuah web yang di mana untuk test preferensi kepribadian, sudah lengkap dengan soal
+# Test Preferensi App
 
-# CARA MENGGUNAKAN
+Ini adalah sebuah web untuk tes preferensi kepribadian, sudah lengkap dengan soal.
 
-1. Download file test.zip
-2. Ekstrak file nya
-3. Lakukan setup dengan cara : - Setup config.php dengan db data sesuai yang kamu buat
-- Tambahkan kode sql anda ke phpmyadmin untuk table database nya, file sql sudah saya siapkan terpisah di susunan.sql
+## Cara Menggunakan
 
-4. Jika sudah, untuk default login itu username nya: admin dengan password: admin spoor
+1. **Download file `test.zip`**
+2. **Ekstrak file-nya**
+3. **Setup:**
+   - Setup `config.php` dengan data database sesuai yang kamu buat.
+   - Tambahkan kode SQL kamu ke phpMyAdmin untuk tabel database-nya. File SQL sudah disiapkan terpisah di `susunan.sql`.
+4. **Default Login:**
+   - Username: `admin`
+   - Password: `admin spoor`
